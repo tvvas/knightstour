@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/knightstour/static/css/main.cdcd4cbf.css",
+    "main.js": "/knightstour/static/js/main.6cabf634.js",
+    "index.html": "/knightstour/index.html",
+    "main.cdcd4cbf.css.map": "/knightstour/static/css/main.cdcd4cbf.css.map",
+    "main.6cabf634.js.map": "/knightstour/static/js/main.6cabf634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdcd4cbf.css",
+    "static/js/main.6cabf634.js"
+  ]
+}
